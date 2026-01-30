@@ -59,7 +59,10 @@ The goal is to transform robots from simple command-executing machines into **in
 
 Zoom link:
 [Join the lecture](https://uwasa.zoom.us/j/64553376642?pwd=DTsPD5AhDL4DRZHu8WVEsw4avb2aQi.1)
+## Note about the Zoom link
 
+Based on my understanding, this Zoom link is usually used for all course sessions.
+If there is any change, it will be shared by the course organizers.
 ---
 
 ## Open Attendance
